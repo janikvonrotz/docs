@@ -33,6 +33,7 @@ export const zhSidebar = sidebar({
         'making-a-theme-extendable',
         'passing-data-to-client-code',
         'markdown-and-vue-sfc',
+        'resolving-routes',
       ],
     },
   ],

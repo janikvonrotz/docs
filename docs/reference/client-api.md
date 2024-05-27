@@ -77,6 +77,17 @@ const {
 
   The value is the `lang` property of the page data.
 
+## useRoutes
+
+- Details:
+
+  Returns the routes ref object.
+
+  The value is the `routes` property of the site data.
+
+- Also see:
+  - [Advanced > Cookbook > Resolving Routes](../advanced/cookbook/resolving-routes.md)
+
 ### useRouteLocale
 
 - Details:
@@ -109,6 +120,24 @@ const {
 
 - Also see:
   - [Advanced > Cookbook > Usage of Client Config](../advanced/cookbook/usage-of-client-config.md)
+
+### resolveRoute
+
+- Details:
+
+  Parses the route of the given link.
+
+- Also see:
+  - [Advanced > Cookbook > Resolving Routes](../advanced/cookbook/resolving-routes.md)
+
+## resolveRoutePath
+
+- Details:
+
+  Parses the route path of the given link.
+
+- Also see:
+  - [Advanced > Cookbook > Resolving Routes](../advanced/cookbook/resolving-routes.md)
 
 ### withBase
 

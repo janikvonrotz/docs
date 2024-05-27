@@ -34,6 +34,6 @@ features:
     details: 灵活的插件API，使得插件可以为你的站点提供许多即插即用的功能。
   - title: 打包工具
     icon: fa6-solid:boxes-packing
-    details: 默认的打包工具是 Vite ，也同样支持 Webpack 。选一个你喜欢的来使用吧！
+    details: 推荐的打包工具是 Vite ，但也同样支持使用 Webpack 。选一个你喜欢的来使用吧！
 footer: MIT 协议 | 版权所有 © 2018-至今 VuePress 社区 | 使用 <a href="https://theme-hope.vuejs.press/zh/">vuepress-theme-hope</a> 主题
 ---
