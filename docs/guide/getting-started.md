@@ -118,7 +118,7 @@ yarn add -D vuepress@next
 yarn add -D @vuepress/bundler-vite@next @vuepress/theme-default@next
 ```
 
-@tab pnpm
+@tab npm
 
 ```bash
 # install vuepress
